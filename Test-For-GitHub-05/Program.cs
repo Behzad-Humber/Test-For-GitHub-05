@@ -6,7 +6,7 @@ namespace Test_For_GitHub_05
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!(Rev01)");
+            Console.WriteLine("Hello World!(Rev02)");
         }
     }
 }
